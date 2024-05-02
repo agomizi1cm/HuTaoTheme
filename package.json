@@ -1,0 +1,56 @@
+{
+	"name": "hutao-theme",
+	"displayName": "HuTao Theme",
+	"version": "1.0",
+	"publisher": "agomizi1cm",
+	"description": "HuTao Kawaii !!",
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "*"
+	},
+	"auth": {
+		"name": "agomizi1cm",
+		"email": "koo.ooy504405@gmail.com",
+		"url": "https://github.com/agomizi1cm"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/agomizi1cm/HuTaoTheme"
+	},
+	"bugs": {
+		"url": "https://github.com/agomizi1cm/HuTaoTheme/issues"
+	},
+	"galleryBanner": {
+		"color": "#581312",
+		"theme": "dark"
+	},
+	"categories": [
+		"Themes",
+		"Other"
+	],
+	"keywords": [
+		"theme",
+		"dark"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Hutao Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/hutao.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "f69317b4-4783-4d0b-9698-d552bf14dd89",
+		"publisherDisplayName": "agomizi1cm",
+		"publisherId": "0013bb5a-e44c-4fc1-a275-a194f2401bd5",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1713186587639,
+		"pinned": false,
+		"source": "gallery"
+	}
+}
